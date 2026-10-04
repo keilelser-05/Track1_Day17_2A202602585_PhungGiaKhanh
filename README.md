@@ -12,8 +12,8 @@
 
 | Mục          | Nội dung                    |
 | ------------ | --------------------------- |
-| MHV          | `2A202602930`               |
-| Họ và tên    | `Phan Duy Thành`            |
+| MHV          | `2A202602585`               |
+| Họ và tên    | `Phùng Gia Khánh`           |
 | Tên nhóm     | `H3201`                     |
 | Case đã chọn | `Case C — AI Support Radar` |
 
